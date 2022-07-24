@@ -11,3 +11,7 @@ class Print {
         System.out.println(el);
     }
 }
+
+class New {
+
+}
